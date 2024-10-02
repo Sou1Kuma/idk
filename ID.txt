@@ -6014,3 +6014,5 @@ Escape the Monster ( Waypoint Studios ) - DLC 4a92b220-e93f-487b-8077-015c228beb
 Safest Mansion! ( Dodo Studios ) - DLC 1da4e872-e15a-4924-b3b0-5edcfbe231cc
 HIDE AND SEEK IN THE CASTLE ( Team VoidFeather ) - DLC fd9f08d7-dc11-4da8-8ede-edf08e7dfbb9
 Transformers ( Syclone Studios ) - DLC 9b2f5477-8845-4912-9c07-da0e876cd5b9
+Realism VFX Add-On ( Spark Universe ) - Addon eab9222c-10ee-490c-a214-9dc323021a21
+DWELLERS Add-On ( Panascais ) - Addon 2e5049f1-cf17-4fba-b60d-d1d92284e3bc
