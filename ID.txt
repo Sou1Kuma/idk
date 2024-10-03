@@ -6016,3 +6016,7 @@ HIDE AND SEEK IN THE CASTLE ( Team VoidFeather ) - DLC fd9f08d7-dc11-4da8-8ede-e
 Transformers ( Syclone Studios ) - DLC 9b2f5477-8845-4912-9c07-da0e876cd5b9
 Realism VFX Add-On ( Spark Universe ) - Addon eab9222c-10ee-490c-a214-9dc323021a21
 DWELLERS Add-On ( Panascais ) - Addon 2e5049f1-cf17-4fba-b60d-d1d92284e3bc
+Armor Add-On ( 5 Frame Studios ) - Addon a70d9fc9-1ebb-42ae-97f0-5b1b1cfd680c
+Jetpacks Add-On ( Octovon ) - Addon c03cf688-8750-4653-97a5-b6b1292ab153
+MINERS++ Add-On ( Cubical ) - Addon 87ee3849-165f-4b4f-882b-ccf120d97dec
+Spellbook ( Monster Egg Studios ) - Addon a6ffa5d4-56aa-4998-bba2-8c3829025504
