@@ -6075,3 +6075,4 @@ Dinosaurs Add-On ( Pixelbiester ) - Addon 94864745-5a54-4daf-899e-fbbe21f0142d
 Armor Add-On ( 5 Frame Studios ) - Addon a70d9fc9-1ebb-42ae-97f0-5b1b1cfd680c
 SCP Escape Room ( RareLoot ) - DLC 4ba4e1d0-12a4-43a0-845d-3fc2febecbf3
 FarmCraft Add-on ( Entity Builds ) - Addon 63f10f3e-d1c4-4b33-9803-41e856495527
+More Maces ( Chillcraft ) - Addon c04cf6e0-0c52-459c-9b63-3d84ba21b719
