@@ -6387,3 +6387,9 @@ Ultimate Modern Mansion ( Fun Creators ) - DLC 06d49fa7-54bd-4139-9d74-933aca813
 Drones ( Cubed Creations ) - DLC e41abfbb-1dca-424e-b67d-ed1956734ebe
 $1 vs $1,000,000,000 Skyblock ( Lifeboat ) - DLC ed7623ee-564f-4690-a103-6b54dc1beff4
 Wings ( Mine-North ) - Addon 51eea9c1-56c9-4bef-9300-03ce4d5160ec
+Slingshots Add-On ( Polymaps ) - Addon 8f41c6bd-2a3f-448e-8b6c-153600700efb
+Battle Mutants Add-On ( Jigarbov Productions ) - Addon 20460ebe-2444-4202-9b84-8dc333d4e201
+Horror Add-On ( Builders Horizon ) - Addon 25f7ea41-3f0f-43d1-91d4-7a292d06ac1f
+Towers & Dungeons ( The Craft Stars ) - Addon 5a9b25fd-8527-422a-8295-b03742c53b6a
+Trains Add-On ( Lifeboat ) - Addon d42ac193-22e7-4aaf-a6ba-21349e9f13ca
+Skibidi Toilet Raids ( Logdotzip ) - Addon 56944a50-83a2-4e9b-9d9b-d3c0734d38c4
