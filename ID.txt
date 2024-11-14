@@ -6400,3 +6400,5 @@ Skibidi Toilet Raids ( Logdotzip ) - Addon 56944a50-83a2-4e9b-9d9b-d3c0734d38c4
 Moana 2 ( Starfish Studios ) - DLC 495bb1fc-3b99-4426-85d4-f7effe5eadea
 Horror Add-On ( Builders Horizon ) - Addon 25f7ea41-3f0f-43d1-91d4-7a292d06ac1f
 Battle Mutants Add-On ( Jigarbov Productions ) - Addon 20460ebe-2444-4202-9b84-8dc333d4e201
+Magic Block Add-On ( AriaCreations ) - Addon 31b254e7-a55a-4dd4-a659-bee1c675d6e5
+REALISM+ Add-On ( Square Dreams ) - Addon 85bdfa29-4870-4acb-9de3-138552dd08a2
