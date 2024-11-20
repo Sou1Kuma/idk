@@ -6403,3 +6403,5 @@ REALISM+ Add-On ( Square Dreams ) - Addon 85bdfa29-4870-4acb-9de3-138552dd08a2
 Trains Add-On ( Lifeboat ) - Addon d42ac193-22e7-4aaf-a6ba-21349e9f13ca
 Skibidi Toilet Raids ( Logdotzip ) - Addon 56944a50-83a2-4e9b-9d9b-d3c0734d38c4
 Moana 2 ( Starfish Studios ) - DLC 495bb1fc-3b99-4426-85d4-f7effe5eadea
+Buckets+ Add-On ( MelonBP ) - Addon 8c062726-2a3b-4ae3-a907-257fb31533fe
+Animations+ Add-On ( MelonBP ) - Addon 69e2be55-5d2f-4b9d-aecb-41cc22ff0854
