@@ -6405,4 +6405,5 @@ Skibidi Toilet Raids ( Logdotzip ) - Addon 56944a50-83a2-4e9b-9d9b-d3c0734d38c4
 Moana 2 ( Starfish Studios ) - DLC 495bb1fc-3b99-4426-85d4-f7effe5eadea
 Buckets+ Add-On ( MelonBP ) - Addon 8c062726-2a3b-4ae3-a907-257fb31533fe
 Animations+ Add-On ( MelonBP ) - Addon 69e2be55-5d2f-4b9d-aecb-41cc22ff0854
-
+VEHICLES Add-On ( Dodo Studios ) - Addon 9d0b0bfb-4500-425a-93ca-ceca38a909f0
+Horror Defense ( RareLoot ) - DLC 84fdfa36-6c1e-4f37-8177-b7a82b8291e2
