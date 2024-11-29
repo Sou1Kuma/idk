@@ -6499,3 +6499,4 @@ Moana 2 ( Starfish Studios ) - DLC 495bb1fc-3b99-4426-85d4-f7effe5eadea
 1000 Furniture ( Mine-North ) - Addon f58c01c7-d1a5-4dd9-98bb-0ec2f7c7daa9
 Animations+ Add-On ( MelonBP ) - Addon 69e2be55-5d2f-4b9d-aecb-41cc22ff0854
 VEHICLES Add-On ( Dodo Studios ) - Addon 9d0b0bfb-4500-425a-93ca-ceca38a909f0
+PLENTY OF BLOCKS Add-on (Owls Cubed) - Addon e416fae4-7dfa-495d-ade4-63150a058bf3
