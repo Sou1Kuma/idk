@@ -6562,3 +6562,8 @@ The Backrooms ( Volcano ) - DLC 6f22a027-f003-41f1-ba3f-6d8af90cbccb
 Find the Button Extreme ( Pixelusion ) - DLC 748ce112-726d-44dd-8ae9-6f0486af8d96
 2D Platformer ( Lifeboat ) - DLC 72beca16-c97d-4790-be02-3508df2aab1d
 WorldCrafter Add-On ( Causeway Digital ) - Addon 0d3853d3-d77b-482a-bf84-57776bf743f5
+ANIME JUTSU Add-On (Kubo Studios) - Addon 143d25c4-773b-49e0-85d0-20090b11317f
+CAVE DWELLER Add-On (Official) (XP GAMES) - Addon ebde13b0-4167-4a7f-a2dd-72217b1476ef
+Storage++ Add-On (Diamond Studios) - Addon 7ab96dbe-b126-4d98-b987-eed5d71da711
+Italy Build Set (DeliSoft Studios) - Addon fb60b6a3-a8c9-48cf-a11a-6d0b583a3c9b
+Easy Redstone Add-On (Overtales Studio) - Addon 269a4573-d3a9-44ad-92e5-3f314510578a
