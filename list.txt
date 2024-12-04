@@ -6567,3 +6567,4 @@ CAVE DWELLER Add-On (Official) (XP GAMES) - Addon ebde13b0-4167-4a7f-a2dd-72217b
 Storage++ Add-On (Diamond Studios) - Addon 7ab96dbe-b126-4d98-b987-eed5d71da711
 Italy Build Set (DeliSoft Studios) - Addon fb60b6a3-a8c9-48cf-a11a-6d0b583a3c9b
 Easy Redstone Add-On (Overtales Studio) - Addon 269a4573-d3a9-44ad-92e5-3f314510578a
+Evolving Weapons Add-On 1.1 (Pathway Studio) - Addon 9e760170-bd69-4096-8ca5-5a2736f5ea95
