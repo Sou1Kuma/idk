@@ -3766,7 +3766,7 @@ Dragons! Biomes ( Cynosia ) - Addon 12678d9b-a82d-485a-8e15-b7c6ba9def4b
 Waypoints Add-On ( Diamond Studios ) - Addon abe1330b-46f9-4798-9724-4ee586850477
 Tetris Add-On ( Minecraft ) - Addon f3e05d62-6ff0-4de5-a2ff-ad5cecc7d01c
 Craftable Houses Add-On ( Pixell Studio ) - Addon 5031a461-4bbe-445a-947b-23ae28375e49
-RealismCraft 1.4 ( Spark Universe ) - Mashup 5eddc134-bdf3-4a84-b7c5-ee0504402be9
+RealismCraft 1.5 ( Spark Universe ) - Mashup 5eddc134-bdf3-4a84-b7c5-ee0504402be9
 Dragons Add-On 1.1 ( Levelatics ) - Addon d790c8b7-6dcc-43c9-85fd-8ece6627ad42
 Sunnyside Academy ( Imagiverse ) - DLC 454ea3d6-0024-4666-b4a9-0f0b9d518a49
 Castle Architect ( Pathway Studios ) - DLC d67ba040-f170-4c3e-8e73-c566f68d0bfc
