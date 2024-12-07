@@ -6572,3 +6572,9 @@ BLASTERS Add-On ( Pixelusion ) - Addon c051b523-88e7-4e0c-a6a5-ac120c456d3e
 Storage++ Add-On ( Diamond Studios ) - Addon 7ab96dbe-b126-4d98-b987-eed5d71da711
 Phantom Frames Add-On ( The Hive ) - Addon c8e87848-aae0-4b66-bc0d-6c70294a93e0
 Avatar: Rites of Passage ( Gamemode One ) - DLC c65cc4c5-8a2f-46f3-bdc6-5bc7c4f7d54f
+Wings++ ( Floruit ) - Addon 0672d0ae-5cf2-487f-ae9b-b57f4a57d1e9
+Majestic Camping Add-On ( CaptainSparklez ) - Addon 616f1797-24ec-4794-bbe4-c08b77172c6d
+Ghost Pets Add-On ( AriaCreations ) - Addon 500dbac8-209a-4a55-9643-829fd6f8989f
+TRAINS Add-On ( Pickaxe Studios ) - Addon 2f2a7437-8e2e-4b81-9479-74a4652a8d27
+Mythical Beasts Add-On ( Lunar Client ) - Addon c1b79488-9ca9-4e65-91de-a4978c6dabba
+Ring Pets Add-On ( Eescal Studios ) - Addon 3b049a78-df91-472f-bee7-c918aa95b903
